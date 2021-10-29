@@ -19,6 +19,7 @@ The MTA Turnstile dataset will be obtained from the MTA website that stores week
 
 <br>
 Additionally, I want to create new fields, as follows:
+
 - DAILY_ENTRIES: Represents the total of entries per station per day.
 - DAILY_EXITS: Represents the total of exits per station per day.
 - DAILY_TOTAL: Represents the total entries and exits per day.
