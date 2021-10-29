@@ -30,7 +30,7 @@ The MTA Turnstile dataset will be obtained from the MTA website that stores week
 
 •	EXITS: The cumulative exit register value for a device.
 
-
+<br>
 Additionally, I want to create new fields, as follows:
 
 •	DAILY_ENTRIES: Represents the total of entries per station per day.
@@ -51,4 +51,5 @@ To meet the requirement of the project, the Python libraries I will be using are
 
 *********************************************
 The first project - T5 Data Science Bootcamp
+
 Tuesday, September 21, 2021
