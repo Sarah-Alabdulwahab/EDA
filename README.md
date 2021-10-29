@@ -2,7 +2,7 @@
 
 ### 1.	Introduction
 
-The Metropolitan Transportation Authority (MTA) is North America's largest transportation network, covering a 5,000-square-mile travel area surrounding New York City through Long Island, southeastern New York State, and Connecticut [1]. The goal of this project is to explore the Metropolitan Transportation Authority (MTA) turnstiles data to determine the busiest stations in order to reduce the traffic by adding more turnstiles in those stations. I worked on four months of data provided by the MTA, which had features such as the station, date, cumulative number of entries and exits, etc.
+The Metropolitan Transportation Authority (MTA) is North America's largest transportation network, covering a 5,000-square-mile travel area surrounding New York City through Long Island, southeastern New York State, and Connecticut [1]. The goal of this project is to explore the Metropolitan Transportation Authority (MTA) turnstiles data to determine the busiest stations in order to reduce the traffic by adding more turnstiles in those stations.
 
 ### 2.	Data Description
 
